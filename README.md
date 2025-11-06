@@ -9,7 +9,7 @@ A modern and responsive website built using Next.js + Vercel, designed to provid
 
 📖 Overview
 
-The v0 Shortcut Website is a simple, fast, and user-friendly web app that helps users easily find and use common keyboard shortcuts, commands, and workflow tricks across different tools and technologies.
+The KeyFlow Shortcut Website is a simple, fast, and user-friendly web app that helps users easily find and use common keyboard shortcuts, commands, and workflow tricks across different tools and technologies.
 
 It’s hosted on Vercel for high performance, zero configuration, and global scalability.
 
